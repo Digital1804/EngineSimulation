@@ -1,3 +1,7 @@
+/*
+Вспомогательная библиотека для ввода вывода данных
+*/
+
 #pragma once
 #ifndef IN_OUT
 #define IN_OUT
